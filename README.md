@@ -20,8 +20,8 @@ End the program.
 
 ## PROGRAM:
 ```
-## DEVELOPED BY: Keerthika N
-## REFERENCE NUMBER: 21000385
+## DEVELOPED BY: John Paul J
+## REGESTER NUMBER: 212223230093
 num_words =0
 file1 = open("text.txt", "r")
 with open('text.txt','r') as file1:
